@@ -25,11 +25,12 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Please complete the following information:**
- - OS: (e.g. Windows 10)
- - Host application: (e.g. Microsoft Excel)
- - Host application version: (e.g. 2019, 365)
- - Host application bitness, if known: (e.g. 32 bit, 64 bit)
- - VBE_Extras version: (e.g. 1.0.0.0)
+... if you have access to VBE_Extras, in the main menu go to 'About VBE_Extras' then click on 'Copy' ... you can then paste this information here
+- OS: (e.g. Windows 10)
+- Host application: (e.g. Microsoft Excel)
+- Host application version: (e.g. 2019, 365)
+- Host application bitness, if known: (e.g. 32 bit, 64 bit)
+- VBE_Extras version: (e.g. 1.0.0.0)
 
 **Additional context**
 Add any other context about the problem here.
