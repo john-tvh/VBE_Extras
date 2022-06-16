@@ -2,7 +2,7 @@
 name: Other
 about: Ask a question about, or comment on, VBE_Extras
 title: Your question / comment
-labels: enhancement
+labels: question
 assignees: ''
 
 ---
