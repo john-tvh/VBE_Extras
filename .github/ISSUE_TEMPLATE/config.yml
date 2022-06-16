@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Help for VBE_Extras 
+    url: https://www.thevbahelp.com/vbe-extras-help
+    about: Help with VBE_Extras on The VBA Help website
   - name: About VBE_Extras 
     url: https://www.thevbahelp.com/vbe-extras
     about: More information about VBE_Extras on The VBA Help website
