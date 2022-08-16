@@ -24,6 +24,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Logs**
+If you experienced an error/exception while VBE_Extras was running, please attach the logs. You can get these in a .zip file, in VBE_Extras: Settings > Logs > Zip the logs
+
 **Please complete the following information:**
 ... if you have access to VBE_Extras, in the main menu go to 'Settings' then 'Logs' then click on 'Copy app info' ... you can then paste this information here
 - OS: (e.g. Windows 10)
