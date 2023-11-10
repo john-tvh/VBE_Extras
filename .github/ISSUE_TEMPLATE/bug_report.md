@@ -24,6 +24,17 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Frequency of bug**
+Please provide some info on how frequently the bug occurs. Is it every time you carry out the steps in 'To Reproduce' - if not, please try and estimate a % of the time the bug occurs. If you cannot provide specific steps to reproduce the problem, can you say roughly how many times the bug occurs over a time period e.g. "a couple of times per day".
+
+**Context**
+Please add any other context about the problem here. For example:
+- If you use VBE_Extras on multiple devices, does the bug occur on all of them?
+- Do you have any other VBE Add-Ins installed and loaded at the same time as VBE_Extras?
+- Do you use an 'Office display language' other than English?
+- Do you have multiple versions of Office installed?
+- Anything else you think might be relevant ... if you're not sure, far better to mention it!
+
 **Logs**
 If you experienced an error/exception while VBE_Extras was running, please attach the logs. You can get these in a .zip file, in VBE_Extras, in the main menu go to 'Settings' then 'App' then click on 'Zip the logs'
 
@@ -34,6 +45,3 @@ If you experienced an error/exception while VBE_Extras was running, please attac
 - Host application version: (e.g. 2019, 365)
 - Host application bitness, if known: (e.g. 32 bit, 64 bit)
 - VBE_Extras version: (e.g. 1.0.0.0)
-
-**Additional context**
-Add any other context about the problem here.
